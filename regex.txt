@@ -1,0 +1,5 @@
+(.*),(.*) #Expression for Regex 0
+
+I am(nt|.*)\W.My favorite sandwich.is(.\w*) #Expression for Regex 1
+
+sandwich with(nt|.*)(for here|to go(?:nt|.*)) #Expression for Regex 2
